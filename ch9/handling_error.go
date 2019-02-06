@@ -10,7 +10,6 @@ func MyFunc1(v interface{}) (interface{}, error) {
 func MyFunc2() {
 	defer func() {
 		if err := recover(); err != nil {
-			// recover from panic
 			fmt.Println("recover: ", err)
 		}
 	}()

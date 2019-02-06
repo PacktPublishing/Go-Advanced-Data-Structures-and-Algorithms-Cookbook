@@ -230,7 +230,6 @@ func main() {
 
 	var correct int
 	correct = 0
-	//var i int
 	for i, _ = range predicted {
 		if predicted[i] == testY[i] {
 			correct += 1

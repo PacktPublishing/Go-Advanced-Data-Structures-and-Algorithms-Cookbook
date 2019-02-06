@@ -35,6 +35,7 @@ func main() {
 type MethodChecker struct {
 }
 
+// Visit node
 func (checker *MethodChecker) Visit(astNode ast.Node) (visitor ast.Visitor) {
 
 	switch nodeType := astNode.(type) {
