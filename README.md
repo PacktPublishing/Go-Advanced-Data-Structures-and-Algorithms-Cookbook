@@ -23,15 +23,15 @@ Instance Based Learning, Compiler Translation and Process Scheduling  can be imp
 
 
 ## Key Features
-1.Apply common data structures and algorithms in different solutions
-2.Use data structures with real-world examples and develop web & mobile apps
-3.Develope the functional and reactive implementations of the traditional data structures
+1. Apply common data structures and algorithms in different solutions
+2. Use data structures with real-world examples and develop web & mobile apps
+3. Develope the functional and reactive implementations of the traditional data structures
 
 ## What you will learn?
-1.See how to improve the application performance using right data structure and algorithm in web and mobile applications.
+1. See how to improve the application performance using right data structure and algorithm in web and mobile applications.
 2. Enumerate solutions to a problem and identify algorithms and data structures after doing the trade-off analysis of costs and benefits.
-3.Get a grasp on techniques to write pseudo code for an algorithm and ace in white boarding or interviewing situations.
-4.Discover the pitfalls in selecting data structures and algorithms by predicting how fast and efficient is an algorithm or a data structure.
+3. Get a grasp on techniques to write pseudo code for an algorithm and ace in white boarding or interviewing situations.
+4. Discover the pitfalls in selecting data structures and algorithms by predicting how fast and efficient is an algorithm or a data structure.
 
 ## Metadescription
 Explore Golang’s Data Structures and Algorithms that will help you Design, Implement, and Analyze Code in Practical/Professional setting.
