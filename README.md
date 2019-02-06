@@ -2,7 +2,7 @@
 Go Advanced Data Structures and Algorithms Cookbook
 
 
-![alt text](https://github.com/bhagvank/arc/blob/master/IMG_5386.JPG)
+![alt text](https://github.com/bhagvank/arc/blob/master/golang.png)
 
 
 ## Subtitle: 
