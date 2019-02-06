@@ -6,7 +6,7 @@ Go Advanced Data Structures and Algorithms Cookbook
 
 
 ## Subtitle: 
-Take Your Core Programming Skills to develop solutions
+Use Your Basic Go Data Structures and Algorithms knowledge to develop solutions
 
 ## Target Audience 
 This comprehensive book is for developers who have basic go programming skills and knowledge in basic Go Data structures & algorithms.
