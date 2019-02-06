@@ -15,7 +15,7 @@ This comprehensive book is for developers who have basic go programming skills a
 Go-Advanced-Data-Structures-and-Algorithms-Cookbookcovers topics related to  advanced and complex concepts in computer programming. This book provides solutions to real world problems using data structures and algorithms.
 
 ## Long Description
-Golang has been the buzzword for the last 2 years with tremendous improvements being done in the language. Many developers and organizations are slowly migrating to Golang, adopting its fast, lightweight and inbuilt concurrency features. This brings the need to have a solid foundation in data structures and algorithms with this growing language.
+Golang has been the buzzword for the last 2 years with tremendous improvements being done in the language. Many developers and organizations are slowly migrating to Golang, adopting its fast, lightweight and inbuilt concurrency features. This brings the need to have a advanced knowledge in data structures and algorithms with this growing language.
 
 This book is for one who wants to take their datastructures knowledge to next level from basic.Moving a step forward from basic data structures, this book will  teach you how to apply traditional data structures to solve real-world problems such as cryptography, genetic algorithms, compiler design, markov chains, search engines, dynamic programming and simulation are presented in the book.
 
